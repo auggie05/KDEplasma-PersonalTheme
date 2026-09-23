@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="128"
+   height="128"
+   viewBox="0 0 128 128"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4 (86a8ad7, 2024-10-11)"
+   sodipodi:docname="background.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="px"
+     showgrid="true"
+     inkscape:zoom="12.734375"
+     inkscape:cx="11.15092"
+     inkscape:cy="15.352147"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1">
+    <inkscape:grid
+       id="grid1"
+       units="px"
+       originx="0"
+       originy="0"
+       spacingx="1"
+       spacingy="1"
+       empcolor="#0099e5"
+       empopacity="0.30196078"
+       color="#0099e5"
+       opacity="0.14901961"
+       empspacing="4"
+       enabled="true"
+       visible="true" />
+  </sodipodi:namedview>
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g24"
+       inkscape:label="#center">
+      <rect
+         style="font-variation-settings:'wdth' 82.3, 'wght' 698;fill:#ffffff;stroke-width:4;stroke-linecap:round;stroke-linejoin:round"
+         id="center"
+         width="12"
+         height="12"
+         x="8"
+         y="8"
+         inkscape:label="#center" />
+    </g>
+    <g
+       id="bottom"
+       inkscape:label="#bottom">
+      <rect
+         style="font-variation-settings:'wdth' 82.3, 'wght' 698;fill:#ffffff;stroke-width:4;stroke-linecap:round;stroke-linejoin:round"
+         id="rect14"
+         width="12"
+         height="4"
+         x="8"
+         y="20" />
+      <path
+         style="font-variation-settings:'wdth' 82.3, 'wght' 698;fill:#969696;stroke-width:4;stroke-linecap:round;stroke-linejoin:round"
+         d="M 8,24 H 20 V 23 H 8 Z"
+         id="path14" />
+    </g>
+    <g
+       id="top"
+       inkscape:label="#top">
+      <rect
+         style="font-variation-settings:'wdth' 82.3, 'wght' 698;fill:#ffffff;stroke-width:4;stroke-linecap:round;stroke-linejoin:round"
+         id="rect12"
+         width="12"
+         height="4"
+         x="8"
+         y="4" />
+      <path
+         style="font-variation-settings:'wdth' 82.3, 'wght' 698;fill:#969696;stroke-width:4;stroke-linecap:round;stroke-linejoin:round"
+         d="M 8,5 H 20 V 4 H 8 Z"
+         id="path14-1" />
+    </g>
+    <g
+       id="right"
+       inkscape:label="#right">
+      <rect
+         style="font-variation-settings:'wdth' 82.3, 'wght' 698;fill:#ffffff;stroke-width:4;stroke-linecap:round;stroke-linejoin:round"
+         id="rect11"
+         width="4"
+         height="12"
+         x="20"
+         y="8" />
+      <path
+         style="font-variation-settings:'wdth' 82.3, 'wght' 698;fill:#969696;stroke-width:4;stroke-linecap:round;stroke-linejoin:round"
+         d="M 24,20 V 8 h -1 v 12 z"
+         id="path14-8" />
+    </g>
+    <g
+       id="left"
+       inkscape:label="#left">
+      <rect
+         style="font-variation-settings:'wdth' 82.3, 'wght' 698;fill:#ffffff;stroke-width:4;stroke-linecap:round;stroke-linejoin:round"
+         id="rect13"
+         width="4"
+         height="12"
+         x="4"
+         y="8" />
+      <path
+         style="font-variation-settings:'wdth' 82.3, 'wght' 698;fill:#969696;stroke-width:4;stroke-linecap:round;stroke-linejoin:round"
+         d="M 5,20 V 8 H 4 v 12 z"
+         id="path14-8-5" />
+    </g>
+    <rect
+       style="font-variation-settings:'wdth' 82.3, 'wght' 698;fill:#cd00cd;stroke-width:4;stroke-linecap:round;stroke-linejoin:round"
+       id="hint-top-margin"
+       width="1"
+       height="4"
+       x="14"
+       y="4"
+       inkscape:label="#hint-top-margin" />
+    <rect
+       style="font-variation-settings:'wdth' 82.3, 'wght' 698;fill:#cd00cd;stroke-width:4;stroke-linecap:round;stroke-linejoin:round"
+       id="hint-right-margin"
+       width="4"
+       height="1"
+       x="20"
+       y="14"
+       inkscape:label="#hint-right-margin" />
+    <rect
+       style="font-variation-settings:'wdth' 82.3, 'wght' 698;fill:#cd00cd;stroke-width:4;stroke-linecap:round;stroke-linejoin:round"
+       id="hint-bottom-margin"
+       width="1"
+       height="4"
+       x="13"
+       y="20"
+       inkscape:label="#hint-bottom-margin" />
+    <rect
+       style="font-variation-settings:'wdth' 82.3, 'wght' 698;fill:#cd00cd;stroke-width:4.6188;stroke-linecap:round;stroke-linejoin:round"
+       id="hint-left-margin"
+       width="4"
+       height="1"
+       x="4"
+       y="13"
+       inkscape:label="#hint-left-margin" />
+    <g
+       id="topright"
+       inkscape:label="#topright"
+       transform="rotate(90,14,14)">
+      <rect
+         style="font-variation-settings:'wdth' 82.3, 'wght' 698;fill:#ffffff;stroke-width:4;stroke-linecap:round;stroke-linejoin:round"
+         id="rect27"
+         width="4"
+         height="4"
+         x="4"
+         y="4" />
+      <path
+         style="font-variation-settings:'wdth' 82.3, 'wght' 698;fill:#969696;stroke-width:4;stroke-linecap:round;stroke-linejoin:round"
+         d="M 8,4 H 4 V 8 H 5 V 5 h 3 z"
+         id="path30" />
+    </g>
+    <g
+       id="topleft"
+       inkscape:label="#topleft">
+      <rect
+         style="font-variation-settings:'wdth' 82.3, 'wght' 698;fill:#ffffff;stroke-width:4;stroke-linecap:round;stroke-linejoin:round"
+         id="rect27-5"
+         width="4"
+         height="4"
+         x="4"
+         y="4" />
+      <path
+         style="font-variation-settings:'wdth' 82.3, 'wght' 698;fill:#969696;stroke-width:4;stroke-linecap:round;stroke-linejoin:round"
+         d="M 8,4 H 4 V 8 H 5 V 5 h 3 z"
+         id="path30-0" />
+    </g>
+    <g
+       id="bottomright"
+       inkscape:label="#bottomright"
+       transform="rotate(180,14,14)">
+      <rect
+         style="font-variation-settings:'wdth' 82.3, 'wght' 698;fill:#ffffff;stroke-width:4;stroke-linecap:round;stroke-linejoin:round"
+         id="rect27-2"
+         width="4"
+         height="4"
+         x="4"
+         y="4" />
+      <path
+         style="font-variation-settings:'wdth' 82.3, 'wght' 698;fill:#969696;stroke-width:4;stroke-linecap:round;stroke-linejoin:round"
+         d="M 8,4 H 4 V 8 H 5 V 5 h 3 z"
+         id="path30-4" />
+    </g>
+    <g
+       id="bottomleft"
+       inkscape:label="#bottomleft"
+       transform="rotate(-90,14,14)">
+      <rect
+         style="font-variation-settings:'wdth' 82.3, 'wght' 698;fill:#ffffff;stroke-width:4;stroke-linecap:round;stroke-linejoin:round"
+         id="rect27-5-6"
+         width="4"
+         height="4"
+         x="4"
+         y="4" />
+      <path
+         style="font-variation-settings:'wdth' 82.3, 'wght' 698;fill:#969696;stroke-width:4;stroke-linecap:round;stroke-linejoin:round"
+         d="M 8,4 H 4 V 8 H 5 V 5 h 3 z"
+         id="path30-0-5" />
+    </g>
+  </g>
+</svg>
