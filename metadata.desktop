@@ -10,7 +10,7 @@ X-KDE-PluginInfo-License=cc0
 X-Plasma-API=5.0
 
 [ContrastEffect]
-enabled=true
+enabled=false
 contrast=0.75
 intensity=1.1
 saturation=5
