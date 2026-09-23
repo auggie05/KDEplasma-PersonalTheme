@@ -1,0 +1,18 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Name": "CustomPlasmaDesktop"
+            }
+        ],
+        "Name": "Custom Desktop",
+        "Description": "Brings a familiar look to KDE Plasma.",
+        "Id": "custom",
+        "Version": "0.1",
+        "Category": "",
+        "EnabledByDefault": true,
+        "License": "GPL",
+        "Website": ""
+    },
+    "X-Plasma-API": "5.0"
+}
