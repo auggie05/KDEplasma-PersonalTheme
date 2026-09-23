@@ -1,0 +1,16 @@
+[DesktopEntry]
+Name=Personal Theme
+Comment=Example Theme
+
+X-KDE-PluginInfo-Author=auggie05
+X-KDE-PluginInfo-Name=Personal Theme
+X-KDE-PluginInfo-Version=0.1
+X-KDE-PluginInfo-License=cc0
+
+X-Plasma-API=5.0
+
+[ContrastEffect]
+enabled=true
+contrast=0.75
+intensity=1.1
+saturation=5
