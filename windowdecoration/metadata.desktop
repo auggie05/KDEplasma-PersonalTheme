@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Custom Window Decoration
+Comment=Based off of the Windows 10 theme for KDE.
+
+X-KDE-PluginInfo-Name=CustomWindowDecoration
+X-KDE-PluginInfo-Version=0.1
+X-KDE-PluginInfo-Author=auggie05
+X-KDE-PluginInfo-License=GPL v3.0
